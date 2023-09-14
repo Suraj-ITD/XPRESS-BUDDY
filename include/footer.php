@@ -33,7 +33,7 @@
             </div>
             <div class="col-lg-3 col-md-6">
                 <h5 class="text-white mb-4">Our Office</h5>
-                <p class="mb-2"><i class="fa fa-map-marker-alt me-3"></i>123 Street, New York, USA</p>
+                <p class="mb-2"><i class="fa fa-map-marker-alt me-3"></i>Gundecha Onclave, SakiNaka, Andheri East, Asalpha, Mumbai, Maharashtra 400072</p>
                 <p class="mb-2"><i class="fa fa-phone-alt me-3"></i>+91 742 888 11150</p>
                 <p class="mb-2"><i class="fa fa-envelope me-3"></i>cs@xpressbuddy.in</p>
                 <div class="d-flex pt-3">

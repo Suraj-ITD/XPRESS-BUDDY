@@ -3,10 +3,10 @@
 
 <head>
     <meta charset="utf-8">
-    <title>Industro - Industrial HTML Template</title>
+    <title>XPRESS BUDDY</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
-    <meta content="" name="keywords">
-    <meta content="" name="description">
+    <meta content="Xpress Buddy, a unit of ZPD Solutions LLP, is a leading express courier and cargo services company" name="keywords">
+    <meta content="Xpress Buddy, a unit of ZPD Solutions LLP, is a leading express courier and cargo services company" name="description">
 
     <!-- Favicon -->
     <link href="img/favicon.ico" rel="icon">
@@ -30,6 +30,7 @@
     <!-- Template Stylesheet -->
     <link href="css/style.css" rel="stylesheet">
     <link href="css/comman.css" rel="stylesheet">
+    <link href="css/track.css" rel="stylesheet">
 </head>
 
 <body>

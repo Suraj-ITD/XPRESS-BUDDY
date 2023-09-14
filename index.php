@@ -13,7 +13,7 @@
                             <div class="col-lg-10 text-start">
                                 <!-- <p class="fs-5 fw-medium text-primary text-uppercase animated slideInRight">25 Years
                                     of Working Experience</p> -->
-                                <h4 class="display-1 text-white mb-5 animated slideInRight">Industrial Solution
+                                <h4 class="display-1 text-white mb-5 animated slideInRight">Industrial Solution </br>
                                     Providing Company</h4>
                                 <a href="" class="btn btn-primary py-3 px-5 animated slideInRight">Explore More</a>
                             </div>
@@ -29,7 +29,7 @@
                             <div class="col-lg-10 text-start">
                                 <!-- <p class="fs-5 fw-medium text-primary text-uppercase animated slideInRight">25 Years
                                     of Working Experience</p> -->
-                                <h4 class="display-1 text-white mb-5 animated slideInRight">The Best Reliable
+                                <h4 class="display-1 text-white mb-5 animated slideInRight">The Best Reliable </br>
                                     Industry Solution</h4>
                                 <a href="" class="btn btn-primary py-3 px-5 animated slideInRight">Explore More</a>
                             </div>

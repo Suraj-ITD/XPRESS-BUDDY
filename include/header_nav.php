@@ -13,18 +13,15 @@
                <a href="about.php" class="nav-item nav-link">About</a>
                <a href="service.php" class="nav-item nav-link">Services</a>
                <div class="nav-item dropdown">
-                   <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Pages</a>
+                   <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Login</a>
                    <div class="dropdown-menu bg-light m-0">
-                       <a href="project.php" class="dropdown-item">Projects</a>
-                       <a href="feature.php" class="dropdown-item">Features</a>
-                       <a href="team.php" class="dropdown-item">Our Team</a>
-                       <a href="testimonial.php" class="dropdown-item">Testimonial</a>
-                       <a href="404.php" class="dropdown-item">404 Page</a>
+                       <a href="#" class="dropdown-item">Admin Login</a>
+                       <a href="#" class="dropdown-item">Customer Login</a>
                    </div>
                </div>
                <a href="contact.php" class="nav-item nav-link">Contact</a>
            </div>
-           <a href="" class="btn btn-primary px-3 d-none d-lg-block">Get A Quote</a>
+           <a href="track.php" class="btn btn-primary px-3 d-none d-lg-block">Track</a>
        </div>
    </nav>
    <!-- Navbar End -->
